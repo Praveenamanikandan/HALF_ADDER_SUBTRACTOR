@@ -73,6 +73,12 @@ endmodule
 ```
 
 **RTL Schematic**
+
+
+
+
+
+
 ![image](https://github.com/Praveenamanikandan/HALF_ADDER_SUBTRACTOR/assets/144870776/0c97bfb5-0af5-42db-9fe6-36e61dc88c51)
 
 
