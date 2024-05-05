@@ -79,14 +79,14 @@ endmodule
 
 **Output/TIMING Waveform**
 ```
- HALF ADDER:
+HALF ADDER:
 ![image](https://github.com/Praveenamanikandan/HALF_ADDER_SUBTRACTOR/assets/144870776/dad30130-ecb8-446a-96dc-75ccaf8d0b28)
 
 
 HALF SUBTRACTOR:
 ![image](https://github.com/Praveenamanikandan/HALF_ADDER_SUBTRACTOR/assets/144870776/28bc8ec1-79b1-42f8-8277-1c852f99b0d3)
 
-``
+```
 
 **Result:**
 
